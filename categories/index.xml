@@ -3,7 +3,14 @@
         <title>Categories - Category - The Random Forest</title>
         <link>https://the-random-forest.github.io/categories/</link>
         <description>Categories - Category - The Random Forest</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 11 Apr 2022 11:21:51 &#43;0300</lastBuildDate><atom:link href="https://the-random-forest.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 01 Oct 2022 17:46:41 &#43;0300</lastBuildDate><atom:link href="https://the-random-forest.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Classification</title>
+    <link>https://the-random-forest.github.io/categories/classification/</link>
+    <pubDate>Sat, 01 Oct 2022 17:46:41 &#43;0300</pubDate>
+    <author>Author</author>
+    <guid>https://the-random-forest.github.io/categories/classification/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
     <title>Recommendation Systems</title>
     <link>https://the-random-forest.github.io/categories/recommendation-systems/</link>
     <pubDate>Mon, 11 Apr 2022 11:21:51 &#43;0300</pubDate>
@@ -16,13 +23,6 @@
     <pubDate>Thu, 23 Dec 2021 08:48:18 &#43;0200</pubDate>
     <author>Author</author>
     <guid>https://the-random-forest.github.io/categories/neural-networks/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>Classification</title>
-    <link>https://the-random-forest.github.io/categories/classification/</link>
-    <pubDate>Tue, 14 Sep 2021 09:43:47 &#43;0300</pubDate>
-    <author>Author</author>
-    <guid>https://the-random-forest.github.io/categories/classification/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Beginners</title>
